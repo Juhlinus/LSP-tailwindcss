@@ -1,0 +1,4 @@
+[submodule "vscode-tailwindcss-languageserver"]
+    path = vscode-tailwindcss-languageserver
+    url = https://github.com/tailwindcss/intellisense.git
+    ignore = dirty
